@@ -14,6 +14,8 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/',[App\Http\Controllers\HomeController::class,"home"]);
+//Route::get('/',[App\Http\Controllers\HomeController::class,"home"]);
 Route::get('/detail/{product:slug}', [\App\Http\Controllers\HomeController::class,"product"]);
 Route::get('product',[App\Http\Controllers\HomeController::class,"product2"]);
+
 

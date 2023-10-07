@@ -5768,7 +5768,7 @@ i.font60 {
 
 .ul-style-4 li {
     margin: 2px 0 2px 0;
-    display: ;
+
     font-weight: 500;
 }
 
@@ -6306,7 +6306,7 @@ header.smaller{
 }
 
 .pricing-s2.text-light .top .price,
-.pricing-s2.text-white .top .price, {
+.pricing-s2.text-white .top .price {
     color: #ffffff;
 }
 
@@ -11170,7 +11170,7 @@ a.img-icon-zoom {
 
 .grid {
     width: 100%;
-}
+
 
 margin:5px;
 }
